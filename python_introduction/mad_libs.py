@@ -17,7 +17,7 @@ verb = input ("Enter  verb")
 adjective = input ("Enter an adjective")
 
 if time == 'midnight':
-  twist = "Moonlight revealed secret markings on teh floor."
+  twist = "Moonlight revealed secret markings on the floor."
 elif adjective == 'messy':
   twist = "Security footage showed something shocking"
 
